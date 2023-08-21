@@ -9,4 +9,7 @@ use `git config --global credential.helper store `
 ### Cours mise en forme fichier READ.ME sur Github
 (https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+### Image
+!(--API_IPERF.png)
+
 
