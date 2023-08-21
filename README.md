@@ -9,7 +9,15 @@ use `git config --global credential.helper store `
 ### Cours mise en forme fichier READ.ME sur Github
 (https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-### API-IPERF
-![--API_IPERF](https://github.com/omarvm001/Link_Command/assets/140622326/75ab1ca2-2b4b-4964-a34b-25f3ccd78ca9)
+### Structure HTML
+'''
+<html>
+    <bod>
+        Ceci est mon premier texte sur HTML !
+    </bod>
+    
+</html>
+'''
+
 
 
